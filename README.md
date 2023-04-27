@@ -1,6 +1,3 @@
-<p align="right">
-<img title="view count"  src="https://komarev.com/ghpvc/?username=dydgh2011&color=lightgray&style=for-the-badge">
-</p>
 <h1 align="center">
 Welcome to my GitHub page!
 <br/> I'm Yongho Nam! 👋
@@ -34,8 +31,12 @@ What I can do
 <h2 align="center">
 Stats
 </h2>
-<p align="center">
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&layout=compact&theme=buefy&hide_border=true" /></a> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<p align="right">
+<img title="view count"  src="https://komarev.com/ghpvc/?username=dydgh2011&color=lightgray&style=for-the-badge">
 </p>
 
 

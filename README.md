@@ -10,10 +10,12 @@ What I can do
 <p align="center">
 
 
-<code><img align="center" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></code>
-
+<img align="center" title="Arduino"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
 
 </p>
+
+<p align="center">
+  <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></code>
 
 

@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+Welcome to my GitHub page!<br/> I'm Yongho Nam! 👋
+</h1>
+<p align="center">
+I'm student at University of Toronto Mississauga and junior developer, I 
+</p>
+<h2 align="center">
+What I can do
+</h2>
+<p align="center">
 
-<!--
-**dydgh2011/dydgh2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<code><img align="center" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</p>
+
+

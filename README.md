@@ -34,14 +34,25 @@ Stats
 <p align="center">
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&theme=dark&hide_border=true&border_radius=0"
+  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&border_radius=0"
+  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&border_radius=0" />
+<img src="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+</picture>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&theme=light&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact" />
 </picture>
 </p>
 <p align="right">

@@ -2,7 +2,7 @@
 Welcome to my GitHub page!<br/> I'm Yongho Nam! 👋
 </h1>
 <p align="center">
-I'm a student at the University of Toronto who has a love for technology and coding. I'm a passionate full-stack web and software developer building my talents on a variety of personal projects despite my lack of job experience. I'm eager to present my work and highlight my expertise in the area.
+I'm a student at the <strong>University of Toronto</strong> who has a love for technology and coding. I'm a passionate <strong>full-stack web and software developer</strong> building my talents on a variety of personal projects despite my lack of job experience. I'm eager to present my work and highlight my expertise in the area.
 </p>
 <h2 align="center">
 What I can do

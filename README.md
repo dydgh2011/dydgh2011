@@ -34,25 +34,25 @@ Stats
 <p align="center">
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" />
 </picture>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&disable_animations=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&theme=light&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&theme=light&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&disable_animations=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&disable_animations=true" />
 </picture>
 </p>
 <p align="right">

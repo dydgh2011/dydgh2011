@@ -1,5 +1,6 @@
-<img style="float: right;" title="view count"  src="https://komarev.com/ghpvc/?username=dydgh2011&color=lightgray&style=for-the-badge">
-<br>
+<p align="right">
+<img title="view count"  src="https://komarev.com/ghpvc/?username=dydgh2011&color=lightgray&style=for-the-badge">
+</p>
 <h1 align="center">
 Welcome to my GitHub page!
 <br/> I'm Yongho Nam! 👋

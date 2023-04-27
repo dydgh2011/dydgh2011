@@ -31,22 +31,19 @@ What I can do
 <h2 align="center">
 Stats
 </h2>
-
+<p align="center">
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&theme=dark&hide_border=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=dydgh2011&show_icons=true&hide_border=true" />
 </picture>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dydgh2011" alt="dydgh2011's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydgh2011&layout=compact&theme=buefy&hide_border=true"/></a> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+</p>
 <p align="right">
 <img title="view count"  src="https://komarev.com/ghpvc/?username=dydgh2011&color=lightgray&style=for-the-badge">
 </p>

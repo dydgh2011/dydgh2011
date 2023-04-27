@@ -7,6 +7,7 @@ Welcome to my GitHub page!
 <code><a href="https://www.hackerrank.com/dydgh2011" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"> HackerRank</a></code>
 <code><a href="https://stackoverflow.com/users/11796117/mark-nam" title="Stack Overflow Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"> Stack Overflow</a></code>
 <code><a href="https://www.instagram.com/bass_in_sink/"  title="Instagram Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"> Instagram</a></code>
+ <code><a href="https://leetcode.com/dydgh2011/"  title="LeetCode Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg"> LeetCode</a></code>
 </p>
 <p align="center">
 I'm a student at the 🎓<strong>University of Toronto</strong> who has a love for technology and coding. I'm a passionate 👨‍💻<strong>full-stack web and software developer</strong> building my talents on a variety of personal projects despite my lack of job experience. I'm eager to present my work and highlight my expertise in the area.
